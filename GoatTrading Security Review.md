@@ -1,4 +1,4 @@
-# Takadao Security Review
+# Goat Trading Security Review
 ###### tags: `private`, `GoatTrading`
 
 A security review of the [Goat Trading](https://takadao.io/#) smart contract protocol was done by [duc](https://twitter.com/duc_hph) of [Trumpero](https://audits.sherlock.xyz/watson/Trumpero) team. \
