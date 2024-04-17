@@ -31,6 +31,8 @@ A smart contract security review cannot assure the absolute absence of vulnerabi
 
 # Audit scope
 https://github.com/inedibleX/goat-trading/blob/main/contracts/
+![image](https://github.com/huuducsc/duc-private-audits/assets/80202717/13d158d1-1cfe-4129-8b85-e55bc6b01f9a)
+
 
 
 
